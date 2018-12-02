@@ -1,16 +1,16 @@
 # TuPack
 Tu Pack XXX
-Android Studio Project
+Android Native APP
 
 Owner: Juan Pablo 'Jota' León
 
-Members: Anthony Gonzales
-         Diego Guerrero
+Members: Anthony Gonzales,
+         Diego Guerrero,
          Kevin Meza
 
 Lenguage: Java.
 
-Organzation: IPCHILE
+Organization: IPCHILE
 
 Programación de aplicaciones móviles II.
 
@@ -18,7 +18,7 @@ Programación de aplicaciones móviles II.
 Trello: https://trello.com/b/SmAJtNV2/cronograma-tupack
 
 
-
+Disponible en Aptoide y Amazon APPStore.
 
 
 
