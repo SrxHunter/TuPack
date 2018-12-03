@@ -6,7 +6,7 @@ Owner: Juan Pablo 'Jota' León
 
 Members: Anthony Gonzales,
          Diego Guerrero,
-         Kevin Meza
+         Kevin Meza.
 
 Lenguage: Java.
 
