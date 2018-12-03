@@ -18,7 +18,7 @@ Programación de aplicaciones móviles II.
 Trello: https://trello.com/b/SmAJtNV2/cronograma-tupack
 
 
-Disponible en Aptoide y Amazon APPStore.
+Disponible en Aptoide https://tu-pack.es.aptoide.com/?store_name=jotasolutions
 
 
 
